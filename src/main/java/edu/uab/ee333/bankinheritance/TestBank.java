@@ -1,5 +1,5 @@
 /*
- * Author: David Green <DGreen@uab.edu>
+ * Author: Walt Pires <wpires24@uab.edu>
  * Assignment:  bankbase - EE333 Fall 2021
  *
  * Credits:  (if any for sections of code)

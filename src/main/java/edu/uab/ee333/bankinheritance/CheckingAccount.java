@@ -3,7 +3,7 @@ package edu.uab.ee333.bankinheritance;
 /**
  * Model a checking account as a specialization of a bank account
  *
- * @author David Green DGreen@uab.edu
+ * @author Walt Pires wpires24@uab.edu
  */
 public class CheckingAccount extends BankAccount {
 
